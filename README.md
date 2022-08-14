@@ -1,6 +1,6 @@
 # insight-html-email-template
 
-![Insight HTML Email Template - Desktop View](https://github.com/stephorc/modern-html-email-template/blob/main/insight-html-email-template.png)
+![Insight HTML Email Template - Desktop View](https://github.com/stephorc/insight-html-email-template/blob/main/insight-html-email-template.png)
 
 **Project Link** - ***https://stephorc.github.io/insight-html-email-template/***
 
